@@ -30,7 +30,7 @@
 -------------------------------------------------------------------------------
 
 ## Datasets
-US School Shootings (1970-2022)
+Heart Attack Risk Prediction Dataset
 (https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset/data)
 
 Slidedeck
