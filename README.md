@@ -17,10 +17,14 @@
 
 ## Project Description/Outline
 ### Data Collection and Analyses
-
+1. Imported data found in Kaggle
+2. Cleaned and prepared data (ETL) in Jupyter Notebook
+3. Compared variables to address research questions
 
 ### Presentation and Summarization 
-
+4. Created and presented a formal visual presentation
+5. Drafted written analysis of the data
+6. Summarized conclusions
 
 -------------------------------------------------------------------------------
 
@@ -43,16 +47,17 @@ Slidedeck
 -------------------------------------------------------------------------------
 
 ## Task Delineation
-* Patrick - 
-* Callie - 
-* Murtatha - 
-* Libnis - 
-* Dianna - 
+* Patrick - dataset research, project proposal
+* Callie - dataset research, project proposal
+* Murtatha - dataset research, project proposal
+* Libnis - dataset research, project proposal
+* Dianna - dataset research, project proposal
 
 -------------------------------------------------------------------------------
 
 ## Repository Table of Contents
-
+* "Resources" folder containing the original CSV files
+* "Images" folder containing images of visualization and analysis
 
 -------------------------------------------------------------------------------
 
