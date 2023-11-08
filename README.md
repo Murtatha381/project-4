@@ -32,7 +32,7 @@
 1. How does income affect heart attack risk?
 2. What country has the highest heart attack risk? Why?
 3. How does a person's age affect their risk? What about their sex?
-4. Does smoking cigarettes affect a person's risk for heart attack? What about alcohol consumption?
+4. Does smoking affect a person's risk for heart attack? What about alcohol consumption?
 5. Are people with mostly sedentary lifestyles at higher risk? Are active people at lower risk?
 
 -------------------------------------------------------------------------------
