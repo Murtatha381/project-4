@@ -15,7 +15,10 @@
 
 -------------------------------------------------------------------------------
 
-## Project Description/Outline
+## Project Outline
+### Project Description
+This project attempts to find correlation between heart attack risk and various lifestyle factors, such as BMI, income, age, sex, etc.  
+
 ### Data Collection and Analyses
 1. Imported data found in Kaggle
 2. Cleaned and prepared data (ETL) in Jupyter Notebook
