@@ -47,7 +47,7 @@ Heart Attack Risk Prediction Dataset
 (https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset)
 
 Slidedeck
-()
+(https://docs.google.com/presentation/d/1DYJY-HGzJLUvaYWJJ2t6qQ-MlNjh4_RvigR6leEvWC8/edit?usp=sharing)
 
 -------------------------------------------------------------------------------
 
