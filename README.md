@@ -61,7 +61,7 @@ Slidedeck
 -------------------------------------------------------------------------------
 
 ## Repository Table of Contents
-* "Resources" folder containing the original CSV file
+* "Resources" folder containing the original CSV file and our Tableau workbook
 * "Images" folder containing images of visualization and analysis
 * Health_Predictive_Models notebook containing different machine learning models
 * Heart_Analysis notebook containing analysis and visualizations comparing different factors to heart attack risk
